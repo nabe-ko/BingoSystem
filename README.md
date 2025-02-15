@@ -1,4 +1,4 @@
-# Bingo Systemの概要
+## Bingo Systemの概要
 ビンゴマシーンの出す数字をスマホから確認できるWebアプリ。
 専門学校の学園祭で行われるビンゴ大会をより円滑に回すために3人で開発しました。
 主に画面設計やUIを担当しました。
@@ -9,3 +9,6 @@
 - Firebase firestore
 
 <br>
+
+## 画面
+![BingoSystem](https://github.com/user-attachments/assets/37127a9f-7c42-4e0a-9a67-9d8568584159)

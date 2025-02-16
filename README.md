@@ -11,4 +11,4 @@
 <br>
 
 ## 画面
-![BingoSystem](https://github.com/user-attachments/assets/37127a9f-7c42-4e0a-9a67-9d8568584159)
+<img src="https://github.com/user-attachments/assets/37127a9f-7c42-4e0a-9a67-9d8568584159" width=50%>
